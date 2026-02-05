@@ -1,0 +1,11 @@
+# environments
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# secrets
+.env
+
+# data (never commit raw or processed data)
+data/*
+!data/README.md
