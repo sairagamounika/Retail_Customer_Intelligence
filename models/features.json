@@ -1,0 +1,8 @@
+[
+    "recency_days",
+    "frequency_invoices",
+    "monetary",
+    "avg_order_value",
+    "avg_items_per_invoice",
+    "active_months"
+]

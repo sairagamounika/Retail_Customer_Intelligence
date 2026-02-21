@@ -1,0 +1,9 @@
+app_name: Retail Churn Prediction API
+fallback_model_path: models/churn_rf.pkl
+features_path: models/features.json
+model_path: models/churn_rf_calibrated.pkl
+retention_policy:
+  high_risk_threshold: 0.7
+  low_risk_threshold: 0.3
+  medium_risk_threshold: 0.5
+version: 1.0.0
