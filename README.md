@@ -29,9 +29,3 @@ In the competitive retail landscape, retaining existing customers is significant
   - Lift: Significant lift in top deciles, capturing a high percentage of churners.
 - **Key Drivers**: Recency and Frequency are the strongest predictors of churn.
 - **Business Impact**: Targeted retention strategy focuses budget on high-value, high-risk customers, ignoring low-value churners.
-
-### Run the Dashboard
-Launch the Streamlit app:
-```bash
-streamlit run app/dashboard.py
-```
