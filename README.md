@@ -30,24 +30,6 @@ In the competitive retail landscape, retaining existing customers is significant
 - **Key Drivers**: Recency and Frequency are the strongest predictors of churn.
 - **Business Impact**: Targeted retention strategy focuses budget on high-value, high-risk customers, ignoring low-value churners.
 
-## How to Run
-
-### Setup
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Run the Notebooks
-Execute notebooks 01-04 in order to generate data and train models.
-
-### Run the API
-Start the FastAPI server:
-```bash
-python app/main.py
-```
-Test via Swagger UI at `http://localhost:8000/docs`.
-
 ### Run the Dashboard
 Launch the Streamlit app:
 ```bash
